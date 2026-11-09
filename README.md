@@ -2,7 +2,7 @@
 
 Live voice translation, transcripts, contextual answers and a device-local session workspace for Apple devices.
 
-[Official product website](https://realtime-assistant.arte-soft.com/) · [App Store listing](https://apps.apple.com/us/app/gpt-realtime-assistant/id6770536523) · [Side-by-side comparisons](https://realtime-assistant.arte-soft.com/compare/) · [Guides & workflows](https://realtime-assistant.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://realtime-assistant.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official product website](https://realtime-assistant.arte-soft.com/) · [App Store listing](https://apps.apple.com/us/app/gpt-realtime-assistant/id6770536523?pt=127093297&ct=github_realtime_ai&mt=8) · [Side-by-side comparisons](https://realtime-assistant.arte-soft.com/compare/) · [Guides & workflows](https://realtime-assistant.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://realtime-assistant.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 
