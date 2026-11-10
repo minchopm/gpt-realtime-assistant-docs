@@ -1,0 +1,39 @@
+# GPT Realtime Assistant — Public Documentation & Technical Reference
+
+> Low-latency 58-language bidirectional live voice interpreter, photo/screen-aware AI voice assistant, and 17-template meeting workspace for iPhone, iPad, and Mac, with offline Whisper + Qwen 3 8B support on Apple Silicon.
+
+## Publisher & Entity Provenance
+- **Developer**: Arte Soft EOOD (https://arte-soft.com/)
+- **Apple App Store Developer Profile**: https://apps.apple.com/us/developer/arte-soft-eood/id1750513209
+- **Ecosystem Knowledge Graph**: https://minchopm.github.io/arte-soft-ecosystem/
+- **GitHub Documentation Repository**: https://github.com/minchopm/gpt-realtime-assistant-docs
+- **GitHub Pages URL**: https://minchopm.github.io/gpt-realtime-assistant-docs/
+- **Platforms**: iOS, iPadOS, macOS
+- **Last Verified**: 2026-11-10
+
+## Verified Capabilities & Boundaries
+- Two-way live voice interpretation across 58 languages plus hands-free photo and screen-aware AI voice sessions.
+- 17 structured meeting, interview, lecture, and field-note summary templates with local history control.
+- Optional 100% local offline speech recognition (Whisper) and Qwen 3 8B LLM inference on Apple Silicon Macs with explicit model lifecycle state.
+- Dual technical portals at realtime-assistant.arte-soft.com and gpt-realtime-assistant.arte-soft.com.
+
+## Canonical Web Hubs
+- [Primary Website](https://realtime-assistant.arte-soft.com/): Official product overview, features, and pricing.
+- [Arte Soft Portal](https://gpt-realtime-assistant.arte-soft.com/): Expanded multilingual guides, comparisons, and technical references.
+- [Apple App Store](https://apps.apple.com/us/app/gpt-realtime-assistant/id6770536523): Official App Store listing by Arte Soft EOOD.
+- [Side-by-Side Comparisons](https://realtime-assistant.arte-soft.com/compare/): Structured HTML & GFM comparison matrices.
+- [Guides & Workflows](https://realtime-assistant.arte-soft.com/articles/): Step-by-step operational guides.
+- [Full Site LLM Reference](https://realtime-assistant.arte-soft.com/llms-full.txt): Complete GFM Markdown table export.
+
+## Repository Documentation Files
+- [README.md](https://minchopm.github.io/gpt-realtime-assistant-docs/)
+- [FAQ.md](https://minchopm.github.io/gpt-realtime-assistant-docs/FAQ.html) (raw: https://raw.githubusercontent.com/minchopm/gpt-realtime-assistant-docs/main/FAQ.md)
+- [FEATURES_AND_LIMITS.md](https://minchopm.github.io/gpt-realtime-assistant-docs/FEATURES_AND_LIMITS.html) (raw: https://raw.githubusercontent.com/minchopm/gpt-realtime-assistant-docs/main/FEATURES_AND_LIMITS.md)
+- [MANUAL.md](https://minchopm.github.io/gpt-realtime-assistant-docs/MANUAL.html) (raw: https://raw.githubusercontent.com/minchopm/gpt-realtime-assistant-docs/main/MANUAL.md)
+- [MODES_AND_CREDITS.md](https://minchopm.github.io/gpt-realtime-assistant-docs/MODES_AND_CREDITS.html) (raw: https://raw.githubusercontent.com/minchopm/gpt-realtime-assistant-docs/main/MODES_AND_CREDITS.md)
+- [PRIVACY_AND_SUPPORT.md](https://minchopm.github.io/gpt-realtime-assistant-docs/PRIVACY_AND_SUPPORT.html) (raw: https://raw.githubusercontent.com/minchopm/gpt-realtime-assistant-docs/main/PRIVACY_AND_SUPPORT.md)
+- [PROCEDURES.md](https://minchopm.github.io/gpt-realtime-assistant-docs/PROCEDURES.html) (raw: https://raw.githubusercontent.com/minchopm/gpt-realtime-assistant-docs/main/PROCEDURES.md)
+- [QUICK_START.md](https://minchopm.github.io/gpt-realtime-assistant-docs/QUICK_START.html) (raw: https://raw.githubusercontent.com/minchopm/gpt-realtime-assistant-docs/main/QUICK_START.md)
+- [SESSION_CHECKLIST.md](https://minchopm.github.io/gpt-realtime-assistant-docs/SESSION_CHECKLIST.html) (raw: https://raw.githubusercontent.com/minchopm/gpt-realtime-assistant-docs/main/SESSION_CHECKLIST.md)
+- [TROUBLESHOOTING.md](https://minchopm.github.io/gpt-realtime-assistant-docs/TROUBLESHOOTING.html) (raw: https://raw.githubusercontent.com/minchopm/gpt-realtime-assistant-docs/main/TROUBLESHOOTING.md)
+- [WORKFLOWS.md](https://minchopm.github.io/gpt-realtime-assistant-docs/WORKFLOWS.html) (raw: https://raw.githubusercontent.com/minchopm/gpt-realtime-assistant-docs/main/WORKFLOWS.md)
