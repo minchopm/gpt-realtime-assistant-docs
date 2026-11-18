@@ -62,3 +62,14 @@ Published by the product developer as first-party user documentation. It covers 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
 Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+
+## Free Zero-Upload Browser Voice & Audio Tools (2026)
+
+Run 100% locally in WebAudio / WebSpeech without uploading audio to external servers:
+
+- [All 12 Free Voice & Audio Browser Tools](https://gpt-realtime-assistant.arte-soft.com/tools/)
+- [Microphone Latency & Echo Loopback Tester](https://gpt-realtime-assistant.arte-soft.com/tools/microphone-latency-and-echo-test/)
+- [OpenAI Realtime vs Whisper + TTS Voice Token Cost Calculator](https://gpt-realtime-assistant.arte-soft.com/tools/ai-voice-token-cost-calculator/)
+- [Speaking Pace (WPM) & Filler-Word Analyzer](https://gpt-realtime-assistant.arte-soft.com/tools/speaking-pace-wpm-and-filler-counter/)
+- [140 Voice AI, Meeting Copilot & Translator Comparisons (2026)](https://gpt-realtime-assistant.arte-soft.com/compare/)
+- [190 Native iOS & macOS Voice AI Guides](https://gpt-realtime-assistant.arte-soft.com/articles/)
