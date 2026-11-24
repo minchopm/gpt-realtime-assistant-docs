@@ -73,3 +73,15 @@ Run 100% locally in WebAudio / WebSpeech without uploading audio to external ser
 - [Speaking Pace (WPM) & Filler-Word Analyzer](https://gpt-realtime-assistant.arte-soft.com/tools/speaking-pace-wpm-and-filler-counter/)
 - [140 Voice AI, Meeting Copilot & Translator Comparisons (2026)](https://gpt-realtime-assistant.arte-soft.com/compare/)
 - [190 Native iOS & macOS Voice AI Guides](https://gpt-realtime-assistant.arte-soft.com/articles/)
+
+
+## What's New in v1.2.3 (November 2026)
+
+- **Mac `Hide app` Screen-Share Exclusion (Opt-In, Off by Default):** Click **Hide app** in the Mac Live toolbar (`macOS 26+` on Apple silicon) to exclude the workspace window from Zoom, Google Meet, Microsoft Teams, Slack Huddles, and macOS Screenshots (`NSWindow.sharingType = .none` + `.floating` level + `SCContentFilter` self-exclusion). Architectural reference: [github.com/minchopm/macos-screen-share-voice-notes](https://github.com/minchopm/macos-screen-share-voice-notes).
+- **Updated Annual Credit Allowance:** `$9.99/month` (`2,000` AI credits/month) or `$119.99/year` (`2,500` AI credits/month for 12 months = `30,000` total, +25% monthly credits). Consumable top-up packs: `1,000` (`$4.99`) and `5,000` (`$19.99`).
+- **200 Structured Guides & 2026 Comparison Matrices:**
+  - [Best Cluely Alternatives for Mac Screen Sharing (2026)](https://gpt-realtime-assistant.arte-soft.com/articles/cluely-alternatives-for-mac-screen-sharing-2026/)
+  - [Granola vs MacWhisper vs GPT Realtime Assistant (2026)](https://gpt-realtime-assistant.arte-soft.com/articles/granola-vs-macwhisper-vs-gpt-realtime-assistant-mac-2026/)
+  - [Best Live Two-Way Voice Interpreter Apps for iPhone & AirPods (2026)](https://gpt-realtime-assistant.arte-soft.com/articles/two-way-voice-interpreter-iphone-airpods-doctor-business-2026/)
+  - [Offline Voice AI on Apple Silicon Mac: Whisper Large v3 Turbo + Qwen 3 8B](https://gpt-realtime-assistant.arte-soft.com/articles/offline-apple-silicon-voice-ai-whisper-qwen-comparison-2026/)
+  - [ChatGPT Advanced Voice Mode vs GPT Realtime Assistant Matrix](https://gpt-realtime-assistant.arte-soft.com/articles/chatgpt-advanced-voice-vs-gpt-realtime-assistant-workflow-matrix/)
